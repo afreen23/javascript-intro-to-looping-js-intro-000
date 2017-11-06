@@ -12,3 +12,10 @@ function whileLoop(number) {
   }
   return "done";
 }
+
+
+function doWhileLoop(array) {
+  do{
+    pop.array();
+  }while(!mayBeTrue()||array.length===0);
+}
