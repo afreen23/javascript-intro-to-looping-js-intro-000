@@ -13,6 +13,9 @@ function whileLoop(number) {
   return "done";
 }
 
+function mayBeTrue() {
+  return Math.random()>=0.5;
+}
 
 function doWhileLoop(array) {
   do{
