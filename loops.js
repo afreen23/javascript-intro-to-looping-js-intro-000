@@ -23,4 +23,3 @@ function doWhileLoop(array) {
   }while(mayBeTrue()&&array.length>0);
   return array;
 }
-
